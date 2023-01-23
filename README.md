@@ -2,6 +2,9 @@
 # ImanagerAssignment
 Host URL - https://imanager-assignment-frontend.web.app/
 This is assignment project for imanager 
+git hub 
+UI - 
+Server - 
 ## Development set up
 For UI - cd imanager-assignment 
 1. npm install -g @angular/cli
